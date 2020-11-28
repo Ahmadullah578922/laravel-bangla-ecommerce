@@ -1,0 +1,5 @@
+1. What is contracts and repositopry
+2. unsigned integer
+3. php artisan make:seed CategoriesTableSeeder --model=App\Models\Category 
+*******************************add the use model category******************
+php artisan make:factory CategoryFactory --model=App\Models\Category
